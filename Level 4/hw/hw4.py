@@ -1,7 +1,7 @@
 # homework 1
 user_age = 14
-surname = razmadze
-print(str(surname) + str(user_age))
+surname = "razmadze"
+print(str(surname) + " " + str(user_age))
 
 # homework 2
 user_age = 14
