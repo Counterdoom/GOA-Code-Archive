@@ -9,9 +9,9 @@ age2 = 14.0
 print(type(age2))
 
 # cw3
-name = david
-number = 35
-print(name * 35)
+name = "david"
+number = 140
+print(name * 140)
 
 # cw4
 # explicit არის ჩვენი ხელით მონაცემთა ტიპის შეცვლა
