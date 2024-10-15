@@ -5,7 +5,7 @@ print(age_10)
 print(type(age_10))
 
 #hw2
-surname = "manguashvili"
+surname = "Manguashvili"
 print(surname * 100)
 
 #hw3
