@@ -14,3 +14,31 @@ print(result)
 # 5 >= 5 გამოიტანს True-ს რადან ეს სწორი შედარებაა
 
 #hw4
+my_age = 14
+he_age = 37
+my_surname = "მანგუაშვილი"
+he_surname = "მაჭავარიანი"
+result = my_surname == he_surname
+print(result)
+result = my_age == he_age
+print(result)
+
+#hw5
+# ალგორითმი - რაიმე ამოცანის ამოსახსნელად საჭირო მოქმედებათა ზუსტი მიმდევრობა.
+# 3 მაგალითი - Google, ნავიგაცია, რეცეპტები.
+
+#hw6
+# <unfinished>
+
+#hw7
+# <unfinished>
+
+#hw8
+Na = 25
+Nb = 62
+Nc = 9
+Nd = 1
+Nf = 99
+Avg = Na + Nb + Nc + Nd + Nf
+result = Avg == 99 * 25
+print(result)
