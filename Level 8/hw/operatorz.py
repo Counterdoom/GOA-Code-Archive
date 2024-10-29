@@ -1,5 +1,39 @@
 #hw1
-# <unfinished>
+# ==
+result = 5 == 5
+print(result)
+result = 12 == 12
+print(result)
+result = 16 == 16
+print(result)
+# <
+result = 7 < 10
+print(result)
+result = 21 < 210
+print(result)
+result = 94 < 640
+print(result)
+# >
+result = 1 > 0.5
+print(result)
+result = 92 > 45
+print(result)
+result = 55 > 5.5
+print(result)
+# >=
+result = 0 >= 0
+print(result)
+result = 92 >= 35
+print(result)
+result = 125 >= 124
+print(result)
+# <=
+result = 0 <= 13
+print(result)
+result = 73 <= 75
+print(result)
+result = 8 <= 9
+print(result)
 
 #hw2
 my_number = 73
@@ -28,10 +62,10 @@ print(result)
 # 3 მაგალითი - Google, ნავიგაცია, რეცეპტები.
 
 #hw6
-# <unfinished>
+# <??>
 
 #hw7
-# <unfinished>
+# <??>
 
 #hw8
 Na = 25
