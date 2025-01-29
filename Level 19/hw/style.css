@@ -1,0 +1,28 @@
+body {
+    background-color: red;
+    font-family: Arial, sans-serif;
+    color: #fff;
+}
+
+h1 {
+    color: yellow;
+    text-align: center;
+}
+
+.food {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.food img {
+    width: 300px;
+    height: auto;
+}
+
+.food h2 {
+    color: lightblue;
+}
+
+.food p {
+    color: lightgreen;
+}
