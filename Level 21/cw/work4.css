@@ -1,0 +1,12 @@
+p {
+    text-align: center;
+    color: blue;
+    font-size: 20px;
+}
+
+button {
+    background-color: yellow;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
