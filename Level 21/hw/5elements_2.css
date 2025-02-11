@@ -1,0 +1,29 @@
+.class-header {
+    font-size: 30px;
+    color: orange;
+}
+
+.class-paragraph {
+    color: darkgreen;
+    font-size: 16px;
+}
+
+.class-box {
+    width: 300px;
+    height: 150px;
+    background-color: yellow;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.class-button {
+    background-color: blue;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.class-span {
+    font-weight: bold;
+    color: brown;
+}
