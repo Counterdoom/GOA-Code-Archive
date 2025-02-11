@@ -1,0 +1,12 @@
+.centered-text {
+    text-align: center;
+    color: darkred;
+}
+
+.styled-button {
+    background-color: cyan;
+    color: white;
+    padding: 15px;
+    border-radius: 8px;
+    border: none;
+}
